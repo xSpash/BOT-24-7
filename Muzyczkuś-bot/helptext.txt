@@ -1,0 +1,20 @@
+Komendy:
+
+`ping` - Testowanie połączenia
+`help` - Pokazuje ten tekst
+`join` - Dołącza do użytkownika
+`leave` - Opuszcza twój kanał
+`play` - Puszcza pierwszą piosenkę w kolejce
+`pause` - Zatrzymuje daną piosenkę
+`resume` - Kontynuuje daną piosenkę
+`time` - Czas danej piosenki
+`add [type] [url/idfragment]` - Dodaje piosenke do kolejki
+`remove [index]` - Usuwa piosenke z indexu (kolejki)
+`skip` - Pomija daną piosenkę
+`stop` - Zatrzymuje piosenkę, i usuwa wszystkie z kolejki
+`list` - Lista wszystkich piosenek w kolejce
+`move [targetIndex] [up/down/destIndex]` - Zmienia piosenkę w kolejce
+`shuffle` - Sprawdza piosenki w kolejce
+`clear` - Usuwa wszystkie piosenki w kolejce
+`volume [0-100/nothing]` - Ustawia głośność/sama sie ustawia
+`repeat` - Powtarza wszystkie piosenki w kolejce
